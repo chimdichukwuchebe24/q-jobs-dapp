@@ -25,7 +25,7 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/chimdichukwuchebe/q-jobs-dapp.git
+   git clone https://github.com/chimdichukwuchebe24/q-jobs-dapp.git
    ```
 2. Install NPM packages
    ```sh
